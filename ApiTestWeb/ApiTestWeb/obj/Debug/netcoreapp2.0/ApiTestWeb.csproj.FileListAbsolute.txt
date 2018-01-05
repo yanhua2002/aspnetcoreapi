@@ -1,0 +1,11 @@
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\bin\Debug\netcoreapp2.0\ApiTestWeb.deps.json
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\bin\Debug\netcoreapp2.0\ApiTestWeb.runtimeconfig.json
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\bin\Debug\netcoreapp2.0\ApiTestWeb.runtimeconfig.dev.json
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\bin\Debug\netcoreapp2.0\ApiTestWeb.dll
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\obj\Debug\netcoreapp2.0\ApiTestWeb.csprojResolveAssemblyReference.cache
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\obj\Debug\netcoreapp2.0\ApiTestWeb.csproj.CoreCompileInputs.cache
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\obj\Debug\netcoreapp2.0\ApiTestWeb.AssemblyInfoInputs.cache
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\obj\Debug\netcoreapp2.0\ApiTestWeb.AssemblyInfo.cs
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\bin\Debug\netcoreapp2.0\ApiTestWeb.pdb
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\obj\Debug\netcoreapp2.0\ApiTestWeb.dll
+C:\Users\George\Source\Repos\aspnetcoreapi\ApiTestWeb\ApiTestWeb\obj\Debug\netcoreapp2.0\ApiTestWeb.pdb
